@@ -1,19 +1,26 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "MHT TOPUP STORE ";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://t.me/tanvir2vai";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://t.me/MHTTOPUPSTORE";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "https://www.youtube.com/@Mht-Topup-Store";
+
+// =======================================================
+// NOTIFICATION TEXT
+// =======================================================
+var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
+১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
+অর্ডার করুন নিশ্চিন্তে ♥️`;
